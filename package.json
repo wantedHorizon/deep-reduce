@@ -7,6 +7,7 @@
     "build": "./node_modules/.bin/babel src --out-dir lib",
     "prepare": "npm run build",
     "start": "npm run build &&node lib/index",
+    "test1": "npm run build && node lib/test.js",
     "test": "mocha --require @babel/register test/*.test.js"
   },
   "author": "wantedHorizon",

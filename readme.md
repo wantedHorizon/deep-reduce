@@ -2,7 +2,8 @@
 Object,Array,String
 schema {
     filed1: {
-        type:Number,
+        preMapper: function
+        type:Number/Int,
         defaultValue:1 
         function: +,-,*, outerFunction
     },
@@ -14,19 +15,25 @@ schema {
     },
     field3: {
         type: String,
-        function: +,
+        reducerFunction: +,
     },
     field4: {
         type: Object,
+        outputType: 'Array'
         function:ReduceToArray,
+        children: {
+
         child1: {
             type: Number,
             function: -,
         }
         child2: {
             type: Number,
+            outputType: Array
             function: ReduceToArray
         }
+        }
+        
     
     }
     field5 : {
@@ -48,10 +55,10 @@ customFunction: (val,key,acc) => {
 
 
 options: {
-    deep-level: 1 - infinate(@) // default 5,
+    maxLevel: 1 - infinite(@) // default 5,
     default-functions: +,-,*,/
-    error-function: default print 
-    only-schema: true/false
+    errorFunction: default print 
+    onlySchema: true/false // default true
 
 }
 
