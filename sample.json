@@ -1,0 +1,463 @@
+{
+    "CustomerID": "00081",
+    "History": {
+      "2020": {
+        "11": {
+          "15": {
+            "DayCompleted": 0,
+            "DayReceived": 2,
+            "DayTotal": 2,
+            "Results": {
+              "Failed": 0,
+              "MissingResult": 0,
+              "NoResponse": 2,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 0,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 0,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 2
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "18": {
+            "DayCompleted": 7,
+            "DayReceived": 7,
+            "DayTotal": 7,
+            "Results": {
+              "Failed": 3,
+              "MissingResult": 0,
+              "NoResponse": 0,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 4,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 7,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 0
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "23": {
+            "DayCompleted": 1,
+            "DayReceived": 2,
+            "DayTotal": 2,
+            "Results": {
+              "Failed": 0,
+              "MissingResult": 0,
+              "NoResponse": 1,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 1,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 1,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 1
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "24": {
+            "DayCompleted": 5,
+            "DayReceived": 5,
+            "DayTotal": 5,
+            "Results": {
+              "Failed": 1,
+              "MissingResult": 0,
+              "NoResponse": 0,
+              "NotInterested": 1,
+              "OptOut": 0,
+              "Passed": 3,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 5,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 0
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "25": {
+            "DayCompleted": 3,
+            "DayReceived": 3,
+            "DayTotal": 3,
+            "Results": {
+              "Failed": 0,
+              "MissingResult": 0,
+              "NoResponse": 0,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 3,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 3,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 0
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "29": {
+            "DayCompleted": 6,
+            "DayReceived": 6,
+            "DayTotal": 6,
+            "Results": {
+              "Failed": 2,
+              "MissingResult": 0,
+              "NoResponse": 0,
+              "NotInterested": 1,
+              "OptOut": 0,
+              "Passed": 3,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 6,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 0
+                },
+                "OptOut": 0
+              }
+            }
+          }
+        },
+        "12": {
+          "20": {
+            "DayCompleted": 5,
+            "DayReceived": 9,
+            "DayTotal": 9,
+            "Results": {
+              "Failed": 1,
+              "MissingResult": 0,
+              "NoResponse": 4,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 4,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 5,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 4
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "27": {
+            "DayCompleted": 2,
+            "DayReceived": 2,
+            "DayTotal": 2,
+            "Results": {
+              "Failed": 0,
+              "MissingResult": 0,
+              "NoResponse": 0,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 2,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 2,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 0
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "28": {
+            "DayCompleted": 0,
+            "DayReceived": 1,
+            "DayTotal": 1,
+            "Results": {
+              "Failed": 0,
+              "MissingResult": 0,
+              "NoResponse": 1,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 0,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 0,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 1
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "30": {
+            "DayCompleted": 1,
+            "DayReceived": 2,
+            "DayTotal": 2,
+            "Results": {
+              "Failed": 0,
+              "MissingResult": 0,
+              "NoResponse": 1,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 1,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 1,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 1
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "01": {
+            "DayCompleted": 7,
+            "DayReceived": 12,
+            "DayTotal": 17,
+            "Results": {
+              "Failed": 0,
+              "MissingResult": 0,
+              "NoResponse": 5,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 7,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 5,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 7,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 5
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "06": {
+            "DayCompleted": 11,
+            "DayReceived": 13,
+            "DayTotal": 14,
+            "Results": {
+              "Failed": 2,
+              "MissingResult": 0,
+              "NoResponse": 2,
+              "NotInterested": 6,
+              "OptOut": 0,
+              "Passed": 3,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 1,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 11,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 2
+                },
+                "OptOut": 0
+              }
+            }
+          },
+          "08": {
+            "DayCompleted": 10,
+            "DayReceived": 11,
+            "DayTotal": 12,
+            "Results": {
+              "Failed": 1,
+              "MissingResult": 0,
+              "NoResponse": 1,
+              "NotInterested": 5,
+              "OptOut": 0,
+              "Passed": 4,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 1,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 10,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 1
+                },
+                "OptOut": 0
+              }
+            }
+          }
+        }
+      },
+      "2021": {
+        "01": {
+          "06": {
+            "DayCompleted": 1,
+            "DayReceived": 2,
+            "DayTotal": 2,
+            "Results": {
+              "Failed": 0,
+              "MissingResult": 0,
+              "NoResponse": 1,
+              "NotInterested": 0,
+              "OptOut": 0,
+              "Passed": 1,
+              "Review": 0,
+              "Undetermined": 0
+            },
+            "Statuses": {
+              "NotStarted": {
+                "BadPhone": 0,
+                "Duplicated": 0,
+                "MissingPhone": 0,
+                "NoWhatsapp": 0,
+                "OptOutIsYes": 0
+              },
+              "Started": {
+                "Completed": 1,
+                "NotCompleted": {
+                  "NoResponse": 0,
+                  "Waiting": 1
+                },
+                "OptOut": 0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
