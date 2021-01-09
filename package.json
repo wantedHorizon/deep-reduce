@@ -17,5 +17,8 @@
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
     "@babel/register": "^7.12.10"
+  },
+  "dependencies": {
+    "deepcopy": "^2.1.0"
   }
 }
